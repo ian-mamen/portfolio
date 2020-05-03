@@ -62,3 +62,10 @@ body{
   background: darkblue;
   color: white;
 }
+@@media all and(min-width: 480px) {
+  body{
+    background-color: black;
+       color: white;
+  }
+
+}
