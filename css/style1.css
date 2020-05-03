@@ -1,9 +1,10 @@
 h1{
-  color: lightblue;
+  color: darkblue;
   text-align: center;
 }
 p{
   font-family: sans-serif;
+  font-size: 18px;
 }
 .intro{
   font-style: italic;
@@ -17,4 +18,8 @@ ol{
   line-height: 30px;
     font-family: sans-serif;
     color: gray;
+}
+body{
+  color: darkblue;
+  background-color: lightblue;
 }
