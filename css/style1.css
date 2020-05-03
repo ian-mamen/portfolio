@@ -1,0 +1,20 @@
+h1{
+  color: lightblue;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+.intro{
+  font-style: italic;
+}
+ul{
+  line-height: 30px;
+  font-family: sans-serif;
+  color: gray;
+}
+ol{
+  line-height: 30px;
+    font-family: sans-serif;
+    color: gray;
+}
